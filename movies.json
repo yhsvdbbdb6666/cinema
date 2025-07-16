@@ -1,19 +1,12 @@
 [
   {
-    "title": "فيلم مغامرة",
+    "title": "فيلم أكشن جديد",
     "type": "فيلم",
-    "poster": "https://via.placeholder.com/300x160/007bff/ffffff?text=Adventure"
+    "poster": "https://via.placeholder.com/300x160/ff0000/ffffff?text=Action"
   },
   {
-    "title": "مسلسل بوليسي",
+    "title": "مسلسل درامي",
     "type": "مسلسل",
-    "poster": "https://via.placeholder.com/300x160/6c757d/ffffff?text=Police"
-  }
-
- 
-  {
-    "title": "مسلسل رعب",
-    "type": "مسلسل",
-    "poster": "https://via.placeholder.com/300x160/6c757d/ffffff?text=Police"
+    "poster": "https://via.placeholder.com/300x160/000000/ffffff?text=Drama"
   }
 ]
